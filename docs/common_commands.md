@@ -23,7 +23,7 @@ Here is a list of common commands and resources
 ## Resources
 
 | Name |  Description | Link | 
-| ------- | ---------- | 
+| ------- | ---------- | -------- | 
 | Module documentation |  Describe the module usage | [Link](http://www.idris.fr/jean-zay/cpu/jean-zay-cpu-doc_module.html) | 
 | Python personal environment | Describe how to setup new libraries, or use pip or conda  | [Link](http://www.idris.fr/jean-zay/gpu/jean-zay-gpu-python-env.html) |
 | Mono GPU    | Example of how to launch a batch command for one GPU | [Link](http://www.idris.fr/jean-zay/cpu/jean-zay-cpu-exec_mono_batch.html)   |
