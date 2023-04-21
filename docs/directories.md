@@ -34,7 +34,7 @@ Work space to be used by batch, accessible with `$SCRATCH`. The folder is refres
 
 It is used for large files and should be then copy paste in the `$WORK` directory to be saved. 
 
-The path `ALL_CCFRSCRATCH` is a shared directory between projects.``
+The path `ALL_CCFRSCRATCH` is a shared directory between projects.
 
 ### Store
 
