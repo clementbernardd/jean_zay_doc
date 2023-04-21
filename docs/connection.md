@@ -19,7 +19,7 @@ ssh username@ssh2.ibisc.univ-evry.fr
 1. Connect to Jean Zay:
 
 ```bash
-ssh ulg37dt@jean-zay.idris.fr
+ssh <USERNAME>dt@jean-zay.idris.fr
 ```
 In order to connect easily, you can change your `~/.ssh/config` file. 
 
