@@ -26,7 +26,7 @@ This is a space with small amount of memory. This is used for the small variable
 
 Work space and storage. It can be found in `$WORK`. We store the files needed for the `batch` utilisation : library, source code, data, etc. 
 
-There is a space where we can share with everyone: **`ALL_CCFRWORK**`
+There is a space where we can share with everyone: `ALL_CCFRWORK`
 
 ### SCRATCH/JOBSCRATCH
 
@@ -34,13 +34,13 @@ Work space to be used by batch, accessible with `$SCRATCH`. The folder is refres
 
 It is used for large files and should be then copy paste in the `$WORK` directory to be saved. 
 
-The path **`ALL_CCFRSCRATCH`** is a shared directory between projects.``
+The path `ALL_CCFRSCRATCH` is a shared directory between projects.``
 
 ### Store
 
 Archiving space, accessible through `$STORE`. This is used to be stored for a long time, and to not accessed frequently. 
 
-There is also a space shared for projects, accessible with **`$ALL_CCFRSTORE`** command**.**
+There is also a space shared for projects, accessible with `$ALL_CCFRSTORE` command.
 
 ### DSDIR
 
