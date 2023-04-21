@@ -1,6 +1,6 @@
 # Jean Zay Documentation
 
-![Jean Zay image](http://www.idris.fr/media/images/jean-zay-annonce-01.jpg?id=web%3Ajean-zay%3Ajean-zay-presentation)
+![Jean Zay image](https://www.essonne.fr/fileadmin/actus6/supercalculateur-Jean-Zay.jpg)
 
 ## Connection 
 
