@@ -8,3 +8,4 @@ This repo summarises the different commands to use Jean Zay.
 
 - [Connection](docs/connection.md)
 - [Directories](docs/directories.md)
+- [Execution](docs/execution.md)
