@@ -1,4 +1,4 @@
-# Common commands
+# Monitor usage
 
 Here is a list of commands to keep track of resources (GPU hours, disk usage)
 
