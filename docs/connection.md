@@ -20,7 +20,7 @@ ssh <USERNAME_IBISC>@ssh2.ibisc.univ-evry.fr
 You need to have your Jean Zay username (obtained from mail). It usually starts with `ulg`. 
 
 ```bash
-ssh <USERNAME_JEAN_ZAY>dt@jean-zay.idris.fr
+ssh <USERNAME_JEAN_ZAY>@jean-zay.idris.fr
 ```
 ## SSH connection 
 
